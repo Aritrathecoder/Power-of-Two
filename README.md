@@ -14,6 +14,8 @@ Example:
 - `4 & 3` (bitwise AND) results in `0000` (0)
 
 The formula `(n > 0) && ((n & (n - 1)) == 0)` perfectly identifies these numbers.
+<img width="1916" height="960" alt="image" src="https://github.com/user-attachments/assets/d1a8ee99-3a9d-4aec-a6c4-bfa30ebeb425" />
+
 
 ## 🛠️ Features
 - **Fast**: Constant time complexity $O(1)$.
